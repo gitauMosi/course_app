@@ -1,0 +1,22 @@
+{
+    "courseId": "courseid2",
+    "unitId": "unit2",  
+    "unitTitle": "Unit 2: Advanced Programming Concepts",
+    "chapters": [
+        {
+            "chapterId": "chapter1",
+            "title": "Chapter 1: Object-Oriented Programming",
+            "content": "<p>This chapter introduces the principles of object-oriented programming.</p>"
+        },
+        {
+            "chapterId": "chapter2",
+            "title": "Chapter 2: Data Structures",
+            "content": "<p>Learn about various data structures and their applications.</p>"
+        },
+        {
+            "chapterId": "chapter3",
+            "title": "Chapter 3: Algorithms",
+            "content": "<p>This chapter covers fundamental algorithms and problem-solving techniques.</p>"
+        }
+    ]
+}

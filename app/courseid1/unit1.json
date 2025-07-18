@@ -1,0 +1,22 @@
+{
+    "courseId": "courseid1",
+    "unitId": "unit1",
+    "unitTitle": "Unit 1: Introduction to Programming",
+    "chapters": [
+        {
+            "chapterId": "chapter1",
+            "title": "Chapter 1: Getting Started",
+            "content": "<p>This chapter introduces the basics of programming.</p>"
+        },
+        {
+            "chapterId": "chapter2",
+            "title": "Chapter 2: Variables and Data Types",
+            "content": "<p>Learn about variables and different data types in programming.</p>"
+        },
+        {
+            "chapterId": "chapter3",
+            "title": "Chapter 3: Control Structures",
+            "content": "<p>This chapter covers control structures like loops and conditionals.</p>"
+        }
+    ]
+}
